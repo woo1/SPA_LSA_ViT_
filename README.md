@@ -1,5 +1,5 @@
 # SPA_LSA_ViT
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/woo1/SPA_LSA_ViT_/SPA_LSA_ViT(CIFAR10_Swin).ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/woo1/SPA_LSA_ViT_/blob/master/SPA_LSA_ViT(CIFAR10_Swin).ipynb)
 <br>
 [Official code](https://github.com/aanna0701/SPT_LSA_ViT)
 <br>
